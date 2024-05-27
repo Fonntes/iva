@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+    font-size: 1.7em;
+}
+
+.logo {
+    width: 1.5rem;
+    height: 1.5rem; 
+  }
